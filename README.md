@@ -8,11 +8,11 @@ Lecture Materials and many embedded exercises (ImageJ, UCSF Chimera, X3DOM, Thre
 <img src ="./yeast.png"></img>
 <br/>
 <br/>
-<img src ="./3DFlowDiagram.png"></img>
-<br/>
-<br/>
 <img src ="./aliasing3DViewer.gif"></img>
 <br/>
 <br/>
 <img src ="./3DPatternGenerate.gif"></img>
+<br/>
+<br/>
+<img src ="./3DFlowDiagram.png"></img>
 </p>
